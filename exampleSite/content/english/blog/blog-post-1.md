@@ -1,24 +1,35 @@
 ---
 title: "How To Wear Bright Shoes"
-date: 2018-09-24T11:07:10+06:00
-author: John Doe
+date: 2020-09-24T11:07:10+06:00
+author: Mark Roberts
 image : "images/blog/blog-post-1.jpg"
 bg_image: "images/featue-bg.jpg"
-categories: ["Company News"]
-tags: ["Advice","Technology"]
-description: "this is meta description"
+categories: ["Artificial Intelligence"]
+tags: ["Neural Networks, Healthcare"]
+description: "Blogpost on utilizing Neural Networks to classify images of X-Rays"
 draft: false
 type: "post"
 ---
 
+According to the American Lung Association, 'Pneumonia is an infection of the lungs that may be caused by bacteria, viruses, or fungi. The infection causes the lungs' air sacs (alveoli) to become inflamed and fill up with fluid or pus. That can make it hard for the oxygen you breathe in to get into your bloodstream. The symptoms of pneumonia can range from mild to severe, and include cough, fever, chills, and trouble breathing.' </p>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores
-vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem
-ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis
-a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere. </p>
+Patients with pneumonia could have the following symptoms:
 
-> Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes
-nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error
+* Cough that produces phlegm or sometimes blood
+* Fever
+* Shortness of breath or difficulty breathing
+* Chills or shaking
+* Fatigue
+* Sweating
+* Chest or muscle pain
+
+> If a person is suspected of having pneumonia, a doctor will begin by asking the patient about their medical history and symptoms. Next will be a physical exam, so the doctor can listen to the patient's lungs. In checking for pneumonia, a doctor will listen for abnormal sounds like crackling, rumbling or wheezing. If the doctor thinks the patient may have pneumonia, an imaging test like an x-ray may be performed to confirm the diagnosis.
+
+
+
+A chest x-ray may show area of inflammation, similar to the image above, which is a clear indicator of pneumonia. This indicator would lead to a diagnosis, and recommendation for a medical remedy. The question posed here is: Could an Artificial Neural Network perform this diagnostic task from an x-ray image? If so, how well could it perform?</p>
+
+
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum illo deserunt necessitatibus quibusdam sint,
 eos explicabo tenetur molestiae vero facere, aspernatur sit mollitia perferendis reiciendis. Deleniti magni
