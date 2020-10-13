@@ -13,7 +13,7 @@ featured_service:
     # featured service item loop
     - name : "Machine Learning"
       icon : "ion-erlenmeyer-flask"
-      color : "primary"
+      color : '#794c9e' #"primary"
       content : "Machine Learning involves building models that improve automatically as they are fed more information. 
       Machine Learning is an effective tool for tackling both classification and regression type problems."
       
