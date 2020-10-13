@@ -14,19 +14,22 @@ featured_service:
     - name : "Machine Learning"
       icon : "ion-erlenmeyer-flask"
       color : "primary"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      content : "Machine Learning involves building models that improve automatically as they are fed more information. 
+      Machine Learning is an effective tool for tackling both classification and regression type problems."
       
     # featured service item loop
     - name : "Text Processing"
       icon : "ion-leaf"
       color : "primary-dark"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      content : "Natural Language Processing is a cutting edge tool allowing analysts to gain valuable insights from unstructured text data. 
+      Processing text allows large quantities of text to be modeled and better understood."
       
     # featured service item loop
     - name : "Forecasting"
       icon : "ion-lightbulb"
       color : "primary-darker"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      content : "Forecasting involves using all available data to predict future sales, demand, shortages, etc. 
+      I have experience using a myriad of time series modeling techniques to better utilize trend analysis and predict future target outcomes."
 
       
 ############################# Service ###############################
