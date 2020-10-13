@@ -1,5 +1,5 @@
 ---
-title: "How To Wear Bright Shoes"
+title: "Using a Neural Network to Predict Pneumonia From X-Ray Images "
 date: 2020-09-24T11:07:10+06:00
 author: Mark Roberts
 image : "images/blog/blog-post-1.jpg"
