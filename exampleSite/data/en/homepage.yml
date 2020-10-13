@@ -3,8 +3,8 @@ banner:
   enable : true
   bg_image : "images/Effervescent_Analytics_Logo_Large.png"   # "images/slider-bg.jpg"
   bg_overlay : true
-  title : "Analytics Services for <br> small and medium sized businesses"
-  content : "Striving for Efficiency."
+  title : "Striving for Efficiency"
+  content : "Analytics Services for <br> small and medium sized businesses"
   button:
     enable : true
     label : "Learn More"
@@ -18,7 +18,7 @@ about:
   content : "Effervescent Analytics was founded by Mark Roberts, a data scientist with experience in the CPG industry, 
   while finishing coursework at University of Chicago's MS in Analytics program. The mission of Effervescent Analytics is to help small and medium-sized businesses leverage 
   advanced analytics to uncover value in their data. Each company is different, and we aim to create custom solutions for each client's needs."
-  image : "images/wrapper-img.png"
+  image :  "images/Effervescent_Analytics_White_Icon_PurpleBG.png" #"images/wrapper-img.png"
 
 
 ######################### Portfolio ###############################
