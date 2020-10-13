@@ -149,7 +149,7 @@ email = "mark.f.roberts99@gmail.com"
 google_analitycs_id = ""
 location = "Chicago, Illinois"
 logo = "images/Effervescent_Analytics_Logo_Medium.png"
-logo_width = "300px"
+logo_width = "125px"
 mobile = "630 824 8983"
 multi_author = false
 [params.cookies]
