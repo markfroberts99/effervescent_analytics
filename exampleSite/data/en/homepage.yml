@@ -3,24 +3,21 @@ banner:
   enable : true
   bg_image : "images/slider-bg.jpg"
   bg_overlay : true
-  title : "A Digital Marketing <br/> & Design Agency"
-  content : "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  title : "Effervescent <br/> Analytics"
+  content : "Striving for Efficiency."
   button:
     enable : true
-    label : "Discover Our Project"
+    label : "Learn More"
     link : "project"
 
 ############################# About #################################
 about:
   enable : true
   title : "About Us"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the
-              blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-            dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-            ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-            nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-            anim id."
+  description : " Established in 2020 with a dream to help small and medium-sized businesses learn from their data."
+  content : "Effervescent Analytics was founded by Mark Roberts, a data scientist with experience in the CPG industry, 
+  while finishing coursework at University of Chicago's MS in Analytics program. The mission of Effervescent Analytics is to help small and medium-sized businesses leverage 
+  advanced analytics to uncover value in their data. Each company is different, and we aim to create custom solutions for each client's needs."
   image : "images/wrapper-img.png"
 
 
@@ -54,8 +51,8 @@ service:
 cta:
   enable : true
   bg_image : "images/call-to-action-bg.jpg"
-  title : "We design delightful digital experiences."
-  content : "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  title : "Let's build value together."
+  content : "Read more about what we do and our philosophy of data. Read our blog to learn more about our core competencies, <br> and let us know if you are interested in these services."
   button:
     enable : true
     label : "Tell Us Your Story"
