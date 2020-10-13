@@ -7,7 +7,7 @@ theme = "airspace-hugo"
 title = "Effervescent Analytics"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Effervescent Analytics LLC est. 2020"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
@@ -73,7 +73,7 @@ name = "Contact"
 weight = 7
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Effervescent Analytics LLC Est. 2020"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
@@ -142,15 +142,15 @@ unsafe = true
 [outputs]
 home = ["HTML"]
 [params]
-author = "Themefisher"
+author = "Effervescent Analytics"
 contact_form_action = "#"
 description = "This is meta description"
-email = "demo@email.com"
+email = "mark.f.roberts99@gmail.com"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
-logo = "images/logo.png"
+location = "Chicago, Illinois"
+logo = "images/Effervescent_Analytics_Logo_Medium.png"
 logo_width = "150px"
-mobile = "0124857985320"
+mobile = "(630) 924 8983"
 multi_author = false
 [params.cookies]
 enable = true
@@ -158,9 +158,9 @@ expire_days = 2
 [params.gmap]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
-map_marker = "images/marker.png"
+map_latitude = "41.881832"
+map_longitude = "	-87.623177"
+map_marker = "images/Effervescent_Analytics_Logo_Medium.png"
 [params.nav_button]
 enable = true
 label = "Get A Quote"
