@@ -144,13 +144,13 @@ home = ["HTML"]
 [params]
 author = "Effervescent Analytics"
 contact_form_action = "#"
-description = "This is meta description"
+description = "Interested in working with us? Have a comment, question, or concern? Feel free to connect with us below."
 email = "mark.f.roberts99@gmail.com"
 google_analitycs_id = ""
 location = "Chicago, Illinois"
 logo = "images/Effervescent_Analytics_Logo_Medium.png"
-logo_width = "150px"
-mobile = "(630) 924 8983"
+logo_width = "600px"
+mobile = "630 824 8983"
 multi_author = false
 [params.cookies]
 enable = true
@@ -160,7 +160,7 @@ enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 map_latitude = "41.881832"
 map_longitude = "	-87.623177"
-map_marker = "images/Effervescent_Analytics_Logo_Medium.png"
+map_marker = "images/Effervescent_Analytics_White_Icon_PurpleBG.png"
 [params.nav_button]
 enable = true
 label = "Get A Quote"
