@@ -25,20 +25,18 @@ about:
 portfolio:
   enable : true
   bg_image : "images/featue-bg.jpg"
-  title : "WE BELIEVE IN GREAT IDEAS"
+  title : "WHAT WE DO"
   content : "
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  Our core competencies include analytical tools such as sales forecasting, machine learning, natural language processing, deep learning modeling, business intelligence, and data cleaning.
 
+  Is your business lacking in any of these areas? Connect with us, and we can work together toward a sustainable solution.
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  Programming in Python, R, and mySQL. Distributed platforms with Spark. Dashboarding with Tableau. 
   "
   button:
     enable : true
     label : "View Works"
-    link : "project"
+    link : "blog"
 
 
 ############################# Service ############################
