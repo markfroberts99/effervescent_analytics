@@ -4,7 +4,7 @@ banner:
   bg_image : "images/Effervescent_Analytics_Logo_Large.png"   # "images/slider-bg.jpg"
   bg_overlay : true
   title : "Striving for Efficiency"
-  content : "Analytics Services for <br> small and medium sized businesses"
+  content : "<br> <br> <br>Analytics services for <br> small and medium sized businesses"
   button:
     enable : true
     label : "Learn More"
