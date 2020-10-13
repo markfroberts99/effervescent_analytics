@@ -14,7 +14,7 @@ banner:
 about:
   enable : true
   title : "About Us"
-  description : " Established in 2020 with a dream to help small and medium-sized businesses learn from their data."
+  description : " Established in 2020 with a dream to help small and medium-sized businesses create value from their data."
   content : "Effervescent Analytics was founded by Mark Roberts, a data scientist with experience in the CPG industry, 
   while finishing coursework at University of Chicago's MS in Analytics program. The mission of Effervescent Analytics is to help small and medium-sized businesses leverage 
   advanced analytics to uncover value in their data. Each company is different, and we aim to create custom solutions for each client's needs."
