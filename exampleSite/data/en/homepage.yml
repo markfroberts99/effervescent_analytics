@@ -1,9 +1,9 @@
 ############################### Banner ##############################
 banner:
   enable : true
-  bg_image : "images/slider-bg.jpg"
+  bg_image : "images/Effervescent_Analytics_Logo_Large.png"   # "images/slider-bg.jpg"
   bg_overlay : true
-  title : "Effervescent <br/> Analytics"
+  title : "Analytics Services for <br> small and medium sized businesses"
   content : "Striving for Efficiency."
   button:
     enable : true
