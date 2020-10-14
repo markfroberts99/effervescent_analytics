@@ -61,22 +61,22 @@ service:
     # service item loop
     - icon : ion-calculator #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Data Engineering
-      content: ""
+      content: "Converting data from one format to another. Using different data inputs to automatically calculate a new output."
 
     # service item loop
     - icon : ion-drag #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: ETL
-      content: ""
+      content: "Extract, Transform, Load. The essential steps in any data migration."
 
     # service item loop
     - icon : ion-ios-color-filter #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Data Cleaning
-      content: ""
+      content: "Exactly what you think. Properly formatting data, removing incorrect observations, filtering out anything not relavant for our needs."
 
     # service item loop
     - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Non-Linear Models
-      content: ""
+      content: "A non-linear model, when correctly implemented, can uncover a non-linear relationship between variables. Th=is term encapsulates all ML & AI models."
       
 ############################# call to action #################################
 cta:
