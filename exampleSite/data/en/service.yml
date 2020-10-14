@@ -2,7 +2,7 @@
 about:
   enable : true
   title : "Core Competencies"
-  content : " Fill in text here..."
+  content : "We pride ourselves on having an arsenal of tools at our disposal. From data cleaning to machine learning, and from basic statistics to artificial intelligence, we aim to find the solution that best meets each client's unique needs."
   image : "images/Effervescent_Analytics_Logo_Large.png"
 
 
@@ -20,7 +20,7 @@ featured_service:
     # featured service item loop
     - name : "Text Processing"
       icon : "ion-document-text"
-      color : "primary-dark"
+      color : "#a7a9ac" #primary-dark
       content : "Natural Language Processing is a cutting edge tool allowing analysts to gain valuable insights from unstructured text data. 
       Processing text allows large quantities of text to be modeled and better understood."
       
