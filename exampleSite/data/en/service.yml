@@ -20,7 +20,7 @@ featured_service:
     # featured service item loop
     - name : "Text Processing"
       icon : "ion-document-text"
-      color : "#a7a9ac" #primary-dark
+      color : "primary-dark'
       content : "Natural Language Processing is a cutting edge tool allowing analysts to gain valuable insights from unstructured text data. 
       Processing text allows large quantities of text to be modeled and better understood."
       
