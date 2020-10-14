@@ -60,13 +60,13 @@ cta:
 funfacts:
   enable : true
   title : "Fun Facts About Us"
-  description : "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
+  description : "'What started as an idea became an interet. This interest became a passion. A passion turned into formal training and education. Formal training and education spurred the 
+  creation of a blog. The blog became a company; Effervescent Analytics.'"
   funfact_item:
     # funfacts item loop
     - icon : "ion-coffee" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Cups Of Coffee"
-      count : "999+"
+      count : "999"
       
     # funfacts item loop
     - icon : "ion-ios-glasses-outline" #ionicon pack v2 : https://ionicons.com/v2/
