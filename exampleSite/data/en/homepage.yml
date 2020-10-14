@@ -8,7 +8,7 @@ banner:
   button:
     enable : true
     label : "Learn More"
-    link : "project"
+    link : "service"
 
 ############################# About #################################
 about:
@@ -31,7 +31,7 @@ portfolio:
 
   Is your business lacking in any of these areas? Connect with us, and we can work together toward a sustainable solution.
 
-  Programming in Python, R, and mySQL. Distributed platforms with Spark. Dashboarding with Tableau. <br> <br>
+  Our capabilities can work seamlessly with programming in Python, R, and mySQL, distributed platforms with Spark, or dashboarding with Tableau. <br> <br>
   "
   button:
     enable : true
@@ -50,7 +50,7 @@ cta:
   enable : true
   bg_image : "images/call-to-action-bg.jpg"
   title : "Let's build value together."
-  content : "Read more about what we do and our philosophy of data. Read our blog to learn more about our core competencies, <br> and let us know if you are interested in these services."
+  content : "Read more about what we do and our philosophy on harnessing data. <br> Read our blog to learn more about our core competencies, <br> and let us know if you are interested in these services."
   button:
     enable : true
     label : "Tell Us Your Story"
@@ -64,32 +64,31 @@ funfacts:
           blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
   funfact_item:
     # funfacts item loop
-    - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : "ion-coffee" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Cups Of Coffee"
-      count : "99"
+      count : "999+"
       
     # funfacts item loop
     - icon : "ion-ios-glasses-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Article Written"
-      count : "45"
+      count : "20"
       
     # funfacts item loop
     - icon : "ion-ios-compose-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Projects Completed"
-      count : "125"
+      count : "1"
       
     # funfacts item loop
-    - icon : "ion-ios-timer-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Combined Projects"
-      count : "200"
+    - icon : "ion-ios-pint" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Beers Brewed at Home"
+      count : "25"
 
   testimonial_slider:
     # testimonial item loop
-    - name : "Raymond Roy"
+    - name : "Mark Roberts"
       image : "images/clients/avater-1.jpg"
-      designation : "CEO-Themefisher"
-      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-                ideas we feel that our site has unique elements that make us stand out from the crowd."
+      designation : "Founder -Effervescent Analytics"
+      content : "I dream to build a company that creates real value for businesses striving to have a positive impact on their community."
                 
     # testimonial item loop
     - name : "Randi Renin"
