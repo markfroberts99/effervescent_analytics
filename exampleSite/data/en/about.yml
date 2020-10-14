@@ -13,8 +13,8 @@ about:
 
   button:
     enable : true
-    label : "Download Company Profile"
-    link : "#"
+    label : "View our Blog"
+    link : "https://www.effervescentideas.com/"
 
   funfacts:
     # funfacts loop
