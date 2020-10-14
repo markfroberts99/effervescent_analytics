@@ -2,7 +2,7 @@
 about:
   enable : true
   image : "images/Effervescent_Analytics_Purple_Icon.png"
-  title : "We strive to be the best and <br> make awesome work."
+  title : "We strive to create real and lasting value."
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam
           iure officiis facere vitae itaque.
           
@@ -16,7 +16,7 @@ about:
     label : "View our Blog"
     link : "https://www.effervescentideas.com/"
 
-  funfacts:
+  #funfacts: #commenting out for now
     # funfacts loop
     - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Completed Projects"
