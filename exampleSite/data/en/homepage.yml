@@ -92,7 +92,7 @@ funfacts:
                 
     # testimonial item loop
     - name : "Andi Roberts"
-      image : "images/clients/avater-1.jpg"
+      image : "images/andiheadshot.jpeg"
       designation : "Mark's brilliant wife"
       content : "It was really all my idea."
                 
