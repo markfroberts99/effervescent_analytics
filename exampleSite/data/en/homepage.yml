@@ -60,7 +60,7 @@ cta:
 funfacts:
   enable : true
   title : "Fun Facts About Us"
-  description : "'What started as an idea became an interet. This interest became a passion. A passion turned into formal training and education. Formal training and education spurred the 
+  description : "'What started as an idea became an interest. This interest became a passion. A passion turned into formal training and education. Education spurred the 
   creation of a blog. The blog became a company; Effervescent Analytics.'"
   funfact_item:
     # funfacts item loop
@@ -91,11 +91,10 @@ funfacts:
       content : "I dream to build a company that creates real value for businesses striving to have a positive impact on their community."
                 
     # testimonial item loop
-    - name : "Randi Renin"
+    - name : "Andi Roberts"
       image : "images/clients/avater-1.jpg"
-      designation : "CEO-Themefisher"
-      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-                ideas we feel that our site has unique elements that make us stand out from the crowd."
+      designation : "Mark's brilliant wife"
+      content : "It was really all my idea."
                 
     # testimonial item loop
     - name : "Rose Rio"
