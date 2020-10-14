@@ -4,7 +4,7 @@ banner:
   bg_image : "images/Effervescent_Analytics_Logo_Large.png"   # "images/slider-bg.jpg"
   bg_overlay : true
   title : "Turning Data into Value"
-  content : "<br> <br> <br> <br> <br> <br> <br> <br> Analytics services for small and medium sized businesses <br> <br>"
+  content : "<br> <br> <br> <br> <br> <br> <br> Analytics services for small and medium sized businesses <br> <br>"
   button:
     enable : true
     label : "Learn More"
