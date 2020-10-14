@@ -49,7 +49,7 @@ about:
       
 ################################ feature #####################################
 features:
-  enable : false #true
+  enable : true
   title : "We are indepented Design & Development Agency"
   feature_item:
     # feature item loop
