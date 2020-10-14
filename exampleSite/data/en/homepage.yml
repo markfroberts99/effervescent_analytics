@@ -86,7 +86,7 @@ funfacts:
   testimonial_slider:
     # testimonial item loop
     - name : "Mark Roberts"
-      image : "images/clients/avater-1.jpg"
+      image : "images/headshot.png"
       designation : "Founder -Effervescent Analytics"
       content : "I dream to build a company that creates real value for businesses striving to have a positive impact on their community."
                 
