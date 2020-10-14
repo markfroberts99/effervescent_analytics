@@ -4,7 +4,7 @@ banner:
   bg_image : "images/Effervescent_Analytics_Logo_Large.png"   # "images/slider-bg.jpg"
   bg_overlay : true
   title : "Turning Data into Value"
-  content : "<br> <br> <br> <br> <br> <br> <br> Analytics services for small and medium sized businesses <br> <br>"
+  content : "<br> <br> <br> <br> <br> <br> <br> <br> Analytics services for small and medium sized businesses <br> <br>"
   button:
     enable : true
     label : "Learn More"
@@ -70,7 +70,7 @@ funfacts:
       
     # funfacts item loop
     - icon : "ion-ios-glasses-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Article Written"
+      name : "Articles Written"
       count : "20"
       
     # funfacts item loop
@@ -97,8 +97,7 @@ funfacts:
       content : "It was really all my idea."
                 
     # testimonial item loop
-    - name : "Rose Rio"
-      image : "images/clients/avater-3.jpg"
-      designation : "CEO-Themefisher"
-      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-                ideas we feel that our site has unique elements that make us stand out from the crowd."
+    - name : "Oliver Roberts-Hietala"
+      image : "images/Ollieheadshot.jpeg"
+      designation : "Mark's Nephew. Good Boy"
+      content : "As an aspiring model, I will be saw whatever it takes to get my face on this website. Also- treats."
