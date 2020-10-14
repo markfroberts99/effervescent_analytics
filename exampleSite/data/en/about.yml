@@ -50,37 +50,37 @@ about:
 ################################ feature #####################################
 features:
   enable : true
-  title : "We are indepented Design & Development Agency"
+  title : "Effervescent Analytics"
   feature_item:
     # feature item loop
     - icon : "ion-ios-color-filter-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : ""
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content : "Finding Solutions"
       
     # feature item loop
     - icon : "ion-ios-unlocked-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : ""
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content : "Unlocking value from data"
       
     # feature item loop
     - icon : "ion-ios-game-controller-b-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : ""
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content : "Model experimentation and optimization"
       
     # feature item loop
     - icon : "ion-ios-mic-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : ""
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content : "Communicating results"
       
     # feature item loop
     - icon : "ion-ios-lightbulb-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : ""
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content : "Collaborating on ideas"
       
     # feature item loop
     - icon : "ion-ios-star-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : ""
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content : "Highlighting strengths"
     
 
 #################################### testimonial & mission vision #######################################
