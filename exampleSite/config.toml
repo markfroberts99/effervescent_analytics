@@ -191,8 +191,8 @@ preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
-#icon = "ion-social-googleplus-outline"
-#link = "#"
+icon = "ion-social-rss"
+link = "https://www.effervescentideas.com/"
 [[params.social]]
 icon = "ion-social-linkedin-outline"
 link = "https://www.linkedin.com/in/mfroberts99/" # #before
