@@ -1,5 +1,5 @@
 baseURL = "http://effervescentanalytics.netlify.com"
-disableLanguages = []
+disableLanguages = [true]
 disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
