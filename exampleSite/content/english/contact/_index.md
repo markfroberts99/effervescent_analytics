@@ -1,6 +1,6 @@
 ---
-title: "Drop Us A Note"
-description: "this is meta description"
+title: ""
+description: "Contact Us"
 draft: false
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/Effervescent_Analytics_White_Icon_PurpleBG.png"
 ---
