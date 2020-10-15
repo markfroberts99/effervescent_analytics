@@ -23,14 +23,14 @@ weight = 1
 URL = "service"
 name = "Service"
 weight = 3
-[[Languages.en.menu.footer]]
-URL = "pricing"
-name = "Pricing"
-weight = 4
-[[Languages.en.menu.footer]]
-URL = "faq"
-name = "FAQ"
-weight = 5
+#[[Languages.en.menu.footer]]
+#URL = "pricing"
+#name = "Pricing"
+#weight = 4
+#[[Languages.en.menu.footer]]
+#URL = "faq"
+#name = "FAQ"
+#weight = 5
 [[Languages.en.menu.footer]]
 URL = "contact"
 name = "Contact"
