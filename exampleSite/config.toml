@@ -143,7 +143,7 @@ unsafe = true
 home = ["HTML"]
 [params]
 author = "Effervescent Analytics"
-contact_form_action = "#"
+contact_form_action = "mailto:mark.f.roberts99@gmail.com@" #before: #
 description = "Interested in working with us? Have a comment, question, or concern? Feel free to connect with us below."
 email = "mark.f.roberts99@gmail.com"
 google_analitycs_id = ""
