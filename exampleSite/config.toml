@@ -191,20 +191,20 @@ preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
-icon = "ion-social-googleplus-outline"
-link = "#"
+#icon = "ion-social-googleplus-outline"
+#link = "#"
 [[params.social]]
 icon = "ion-social-linkedin-outline"
-link = "#"
+link = "https://www.linkedin.com/in/mfroberts99/" # #before
 [[params.social]]
-icon = "ion-social-pinterest-outline"
-link = "#"
+#icon = "ion-social-pinterest-outline"
+#link = "#"
 [[params.social]]
-icon = "ion-social-dribbble-outline"
-link = "#"
+#icon = "ion-social-dribbble-outline"
+#link = "#"
 [[params.social]]
-icon = "ion-social-twitter-outline"
-link = "#"
+#icon = "ion-social-twitter-outline"
+#link = "#"
 [[params.social]]
-icon = "ion-social-facebook-outline"
-link = "#"
+#icon = "ion-social-facebook-outline"
+#link = "#"
