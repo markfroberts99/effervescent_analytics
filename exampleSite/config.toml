@@ -52,7 +52,7 @@ URL = "service"
 name = "Service"
 weight = 4
 [[Languages.en.menu.main]]
-URL = "blog"
+URL =  "https://www.effervescentideas.com/"   #"blog"
 name = "Blog"
 weight = 5
 #[[Languages.en.menu.main]]
