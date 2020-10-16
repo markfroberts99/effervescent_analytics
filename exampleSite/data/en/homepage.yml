@@ -75,9 +75,9 @@ funfacts:
       
     # funfacts item loop
     - icon : "ion-ios-compose-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Projects Completed"
-      count : "1"
-      
+      name : "Websites Versions Built"
+      count : "3"
+     
     # funfacts item loop
     - icon : "ion-ios-pint" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Beers Brewed at Home"
