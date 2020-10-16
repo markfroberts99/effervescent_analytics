@@ -36,7 +36,7 @@ portfolio:
   button:
     enable : true
     label : "View Works"
-    link : "blog"
+    link : "https://www.effervescentideas.com/"
 
 
 ############################# Service ############################
