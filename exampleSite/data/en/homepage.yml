@@ -84,6 +84,12 @@ funfacts:
       count : "25"
 
   testimonial_slider:
+  # testimonial item loop
+    - name : "Jeff"
+      image : "images/NorthFortyLogo.png"
+      designation : "Founder, North Forty Investment Advisors LLC"
+      content : "“Effervescent Analytics has been a pleasure to work with. The interface they created for the Markovitz Mean Variance Optimizer tool is intuitive and user friendly, and the tool itself has been critical for recent client and prospect pitches. I enjoyed and highly recommend working with Effervescent Analytics."
+  
     # testimonial item loop
     - name : "Mark Roberts"
       image : "images/headshot.png"
@@ -96,8 +102,4 @@ funfacts:
       designation : "Mark's brilliant wife"
       content : "It was really all my idea."
                 
-    # testimonial item loop
-    - name : "Jeff"
-      image : "images/NorthFortyLogo.png"
-      designation : "Founder, North Forty Investment Advisors LLC"
-      content : "“Effervescent Analytics has been a pleasure to work with. The interface they created for the Markovitz Mean Variance Optimizer tool is intuitive and user friendly, and the tool itself has been critical for recent client and prospect pitches. I enjoyed and highly recommend working with Effervescent Analytics."
+   
