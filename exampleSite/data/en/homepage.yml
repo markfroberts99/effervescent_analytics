@@ -99,7 +99,7 @@ funfacts:
       # testimonial item loop
     - name : "Mark Roberts"
       image : "images/headshot.png"
-      designation : "Founder -Effervescent Analytics"
+      designation : "Founder, Effervescent Analytics"
       content : "I dream to build a company that creates real value for businesses striving to have a positive impact on their community."
                 
    
