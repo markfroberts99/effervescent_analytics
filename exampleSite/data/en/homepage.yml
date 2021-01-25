@@ -89,17 +89,17 @@ funfacts:
       image : "images/NorthFortyLogo.png"
       designation : "Founder, North Forty Investment Advisors LLC"
       content : "Working with Effervescent Analytics has been an absolute pleasure. The interface they created for the Markovitz Mean Variance Optimizer tool is intuitive and user friendly, and the tool itself has been critical for recent client and prospect pitches. I enjoyed and highly recommend working with Effervescent Analytics."
-  
-    # testimonial item loop
-    - name : "Mark Roberts"
-      image : "images/headshot.png"
-      designation : "Founder -Effervescent Analytics"
-      content : "I dream to build a company that creates real value for businesses striving to have a positive impact on their community."
-                
+              
     # testimonial item loop
     - name : "Stephanie"
       image : "images/crummies_logo.jpg"
       designation : "Owner, Crummies Meatless Crumble"
       content : "I used Effervescent Analytics to create a sales chart for my business. It was an important tool in order to build and present a marketing strategy. Mark was professional and very helpful. Thank you! "
+      
+      # testimonial item loop
+    - name : "Mark Roberts"
+      image : "images/headshot.png"
+      designation : "Founder -Effervescent Analytics"
+      content : "I dream to build a company that creates real value for businesses striving to have a positive impact on their community."
                 
    
